@@ -1,0 +1,25 @@
+body {
+  background: blue;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  font-size: 67px;
+}
+.size {
+  width: 607px;
+  display: flex;
+  flex-direction: column; /* Stacks the players vertically */
+  align-items: center; /* This centers the items horizontally in a column layout */
+}
+.center{
+  display: flex;
+  flex-direction: column; /* Stacks the players vertically */
+  align-items: center; 
+}
+.hb{
+  font-size:40px;
+  color:white
+}

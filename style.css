@@ -1,0 +1,58 @@
+body {
+  background: black;
+}
+p {
+  color: white;
+}
+h1 {
+  font-weight: bold;
+  color: white;
+  font-size: 65px;
+  text-align: center;
+    
+  font-family:sans-serif
+  
+}
+.troi{
+  width: 400px;
+}
+.scb{
+  width: 400px;
+  height: 100px;
+  color:white;
+  background-color: orange;
+  font-family:inherit;
+  font-size: 30px;
+}
+.title2{
+  font-size: 30px;
+}
+body {
+  background-image: url('backroundimg.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+.shitstain{
+  
+    position: fixed; /* Positions the player relative to the browser window */
+    top: 700px;      /* 10 pixels from the top of the window */
+    right: 400px;    /* 10 pixels from the right of the window */
+}
+.roids{
+  font-size: 30px;
+  
+ 
+    background-color: lightblue;
+    padding: 20px;
+    /* Optional: Add border-radius for rounded corners */
+    border-radius: 15px;
+
+}
+.linkdab{
+  color: white;
+  font-size: 40px
+}
+.linkdab{
+  display: flex;
+  flex-direction:row;
+}
